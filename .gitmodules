@@ -28,8 +28,8 @@
 	branch = published
 [submodule "submodules/appium-instruments"]
 	path = submodules/appium-instruments
-	url = https://github.com/appium/appium-instruments.git
-	branch = published
+	url = https://github.com/swind/appium-instruments.git
+	branch = argument-fix
 [submodule "submodules/appium-uiauto"]
 	path = submodules/appium-uiauto
 	url = https://github.com/appium/appium-uiauto.git
